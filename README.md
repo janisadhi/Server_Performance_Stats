@@ -4,7 +4,6 @@
 Welcome to **Server Performance Stats**, a simple script to monitor your server's performance metrics, including CPU usage, memory usage, disk usage, and the top processes consuming system resources.
 
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -53,3 +52,4 @@ The script outputs:
 
 ---
 
+This project is part of [roadmap.sh](https://roadmap.sh/projects/server-stats) DevOps projects.
